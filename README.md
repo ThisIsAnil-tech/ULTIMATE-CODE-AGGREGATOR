@@ -140,10 +140,8 @@ Output Tailoring: Toggle line numbers, headers, and specific metadata.
 
 ### 📊 Sample Output Format
 
-# ================================================================================
 # // FILE: /src/core/logic.py
 # // TYPE: Python | SIZE: 1.2 KB | LINES: 45
-# ================================================================================
 
 1 | import os
 2 | def process_data():
